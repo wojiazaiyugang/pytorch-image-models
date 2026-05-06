@@ -4,6 +4,7 @@ build-backend = "pdm.backend"
 
 [project]
 name = "timm"
+version = "0.1.0"
 authors = [
     {name = "Ross Wightman", email = "ross@huggingface.co"},
 ]
